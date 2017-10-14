@@ -1,4 +1,4 @@
 # gitskills
-Creatin a new branch is quick and simple.
+Creatin a new branch is very quick and simple.
 add merge
 
